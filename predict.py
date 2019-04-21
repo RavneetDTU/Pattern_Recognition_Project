@@ -98,7 +98,7 @@ def generate_notes(model, network_input, pitchnames, n_vocab):
 
 def create_midi(prediction_output):
     #Convert the output from the prediction to notes and create a midi file
-    from the notes
+    #from the notes
     offset = 0
     output_notes = []
 
